@@ -1,4 +1,4 @@
-
+secure Utility for ClickUp for macOS - voice notes and collaboration offers the most advanced ClickUp for macOS utility, with voice notes and collaboration. Ideal for
 
 
 
